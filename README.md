@@ -1,6 +1,6 @@
 # LeKakapo
 
-WIP Low-cost mobile manipulator. Inspired by LeKiwi and named after another funny flightless bird from New Zealand. Will be remixed with the following changes:
+WIP Low-cost mobile manipulator. Inspired by LeKiwi and named after another flightless bird from New Zealand (Okay, I am pretty sure LeKiwi is named after the fruit, not the bird, but the Kakapo is a funny little bird that makes me smile). Will be remixed with the following changes:
 
 1. Base/Top plates that fits the printers I have access to OR get them laser cut (TBD)
 2. 48mm omni wheels (since I already have them)
