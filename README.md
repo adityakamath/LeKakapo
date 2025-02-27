@@ -1,3 +1,13 @@
+# LeKakapo
+
+WIP Low-cost mobile manipulator. Inspired by LeKiwi and named after another funny flightless bird from New Zealand. Will be remixed with the following changes:
+
+1. Base/Top plates that fits the printers I have access to OR get them laser cut (TBD)
+2. 48mm omni wheels (since I already have them)
+3. NP-F750 battery to power the base, the arm, and the Pi (again, I already have them, and they have the same capacity as the LeKiwi battery)
+4. Second motor controller will be skipped, the base motors will be chained to the arm motor controller
+5. OAK-D lite on the base (again, since I already have it), but will still have the option to use the camera recommended by LeKiwi
+
 # LeKiwi
 <div style="display: flex; justify-content: center; align-items: center; padding: 25px;">
     <img src="media/167040694.png" height="75" style="background-color: white; padding: 10px;"/>
